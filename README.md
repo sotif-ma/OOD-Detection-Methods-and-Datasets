@@ -13,3 +13,8 @@ With the advancement of deep learning technologies in autonomous driving, safety
 (4)A new uncertainty classification for OOD detection is proposed.
 (5)The application of various uncertainty techniques in OOD detection is summarized and analyzed.
 (6)The datasets for perception safety-oriented scenarios are discussed.
+# Source of uncertainty
+![画板 3@2x](https://github.com/user-attachments/assets/d25f7a77-bcf9-4dea-b190-544c701b3d2a)
+
+# Datasets
+![9d4d6f5a-8d38-486a-ad3d-9c0afe37c10b](https://github.com/user-attachments/assets/c01fbb83-59d9-45fe-b26c-6286e7c3667c)
