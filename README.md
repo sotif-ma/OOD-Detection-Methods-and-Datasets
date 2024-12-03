@@ -1,5 +1,5 @@
 # OOD-Detection-Methods-and-Datasets
-This repository contains some of the OOD detection methods mentioned in the review, as well as relevant datasets in the field of autonomous driving.(To protect the originality of the paper, the complete paper and associated code will be made public after the paper is accepted)
+This repository contains some of the OOD detection methods mentioned in the review, as well as relevant datasets in the field of autonomous driving.
 # Method timeline
 Some of the methods mentioned in the paper are shown in the figure below
 ![fig1](https://github.com/user-attachments/assets/eca1c88d-3149-4cff-bede-fa34ac0914ff)
