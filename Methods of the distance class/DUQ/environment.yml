@@ -1,0 +1,17 @@
+name: duq
+channels:
+    - pytorch
+    - defaults
+dependencies:
+    - python>=3.8
+    - pytorch=1.8.1
+    - torchvision=0.9.1
+    - cudatoolkit=10.2
+    - ignite=0.4.4
+    - tqdm
+    - tensorboard
+    - numpy
+    - scipy
+    - matplotlib
+    - seaborn
+    - scikit-learn

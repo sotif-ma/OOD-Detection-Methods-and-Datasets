@@ -1,0 +1,16 @@
+timm~=0.6.12
+plotly~=5.6
+git+https://github.com/openai/CLIP.git
+pandas>=0.25
+numpy
+torch
+torchvision
+Jinja2
+Pillow
+dataclasses
+setuptools
+pyyaml
+tqdm
+scikit-learn
+progressbar
+kaleido
