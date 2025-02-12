@@ -22,16 +22,27 @@ With the advancement of deep learning technologies in autonomous driving, safety
 The cifar datasets are available for download in this repository, and other datasets are linked below.
 
 MNIST: https://github.com/zalandoresearch/fashion-mnist
+
 BDD100K3: http://bdd-data.berkeley.edu/
+
 Youtube: https://research.google.com/youtube8m/
+
 Pascal voc 2007 and 2012:http://host.robots.ox.ac.uk/pascal/VOC/
+
 ImageNet: https://www.image-net.org/challenges/LSVRC/
+
 SVHN：http://ufldl.stanford.edu/housenumbers/
+
 Textures: https://textures.forrest.cz/
+
 Places365: http://places2.csail.mit.edu/
+
 Gaussian: https://www.phagosight.org/synData.php
+
 Deep Fashion: https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
+
 MS-1M: https://academictorrents.com/details/9e67eb7cc23c9417f39778a8e06cca5e26196a97
+
 IJB: https://www.nist.gov/programs-projects/face-challenges
 
 # Code of various methods
