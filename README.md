@@ -21,4 +21,5 @@ With the advancement of deep learning technologies in autonomous driving, safety
 # Code of various methods
 Follow this table to see where the code for each method is located in this repository
 
-![ca4c79dd-a573-4ef5-b819-26bfa32a31b6](https://github.com/user-attachments/assets/1b3a8d87-5307-4aa0-987e-d482f7593ac7)
+![微信图片_20250212135356](https://github.com/user-attachments/assets/e135a9d8-55ca-4ec5-8de5-b35968aed529)
+
