@@ -18,6 +18,22 @@ With the advancement of deep learning technologies in autonomous driving, safety
 
 # Datasets
 ![9d4d6f5a-8d38-486a-ad3d-9c0afe37c10b](https://github.com/user-attachments/assets/c01fbb83-59d9-45fe-b26c-6286e7c3667c)
+
+The cifar datasets are available for download in this repository, and other datasets are linked below.
+
+MNIST: https://github.com/zalandoresearch/fashion-mnist
+BDD100K3: http://bdd-data.berkeley.edu/
+Youtube: https://research.google.com/youtube8m/
+Pascal voc 2007 and 2012:http://host.robots.ox.ac.uk/pascal/VOC/
+ImageNet: https://www.image-net.org/challenges/LSVRC/
+SVHN：http://ufldl.stanford.edu/housenumbers/
+Textures: https://textures.forrest.cz/
+Places365: http://places2.csail.mit.edu/
+Gaussian: https://www.phagosight.org/synData.php
+Deep Fashion: https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
+MS-1M: https://academictorrents.com/details/9e67eb7cc23c9417f39778a8e06cca5e26196a97
+IJB: https://www.nist.gov/programs-projects/face-challenges
+
 # Code of various methods
 Follow this table to see where the code for each method is located in this repository
 
